@@ -21,14 +21,13 @@ Subrayado: se escribe con dos _ , ejemplo: __texto subrayado__
 ## listas
 
 Para crear una lista basta con poner un guión y espacio:
-__lista desordenada__
-- item 1
+<u>lista desordenada</u>
 - item 2
 - item 3
   - item 3.1
   - item 3.2
 
-__lista ordenada__
+<u>lista ordenada</u>
 1. item 1
 2. item 2
 3. item 3
