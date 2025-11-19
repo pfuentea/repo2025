@@ -35,12 +35,26 @@ Para crear una lista basta con poner un guión y espacio:
 
 ## Enlaces o Links
 Para generar un enlace o link :
-[TEXTO DEL ENLACE](URL_ENLACE)
-[Otro repo](https://github.com/pfuentea/fsp2025)
+[TEXTO DEL ENLACE](URL_ENLACE)  
+[Otro repo](https://github.com/pfuentea/fsp2025)  
 
 ## Imagenes
-![TEXTO ALTERNATIVO](URL_IMAGEN)
-![TEXTO ALTERNATIVO](https://images.cdn1.buscalibre.com/fit-in/360x360/db/7b/db7b3a16cc5222dc2d6b18ba09f67c30.jpg)
+![TEXTO ALTERNATIVO](URL_IMAGEN)  
+![TEXTO ALTERNATIVO](https://images.cdn1.buscalibre.com/fit-in/360x360/db/7b/db7b3a16cc5222dc2d6b18ba09f67c30.jpg)  
+
+## Citas
+para poner una cita en nuestro Readme ponemos un "mayor que":
+
+> esto es una cita  
+
+
+## Tablas
+
+| columna 1 | columna 2 | columna3 |
+|-----------|-----------|----------|
+| dato 1    | dato 2    | dato 3   |
+| dato 4    | dato 5    | dato 6   |
+
 
 
 
