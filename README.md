@@ -20,7 +20,8 @@ Subrayado: se escribe con dos _ , ejemplo: __texto subrayado__
 
 ## listas
 
-Para crear una lista basta con poner un guión y espacio:
+Para crear una lista basta con poner un guión y espacio:  
+
 <u>lista desordenada</u>
 - item 2
 - item 3
@@ -31,6 +32,18 @@ Para crear una lista basta con poner un guión y espacio:
 1. item 1
 2. item 2
 3. item 3
+
+## Enlaces o Links
+Para generar un enlace o link :
+[TEXTO DEL ENLACE](URL_ENLACE)
+[Otro repo](https://github.com/pfuentea/fsp2025)
+
+## Imagenes
+![TEXTO ALTERNATIVO](URL_IMAGEN)
+![TEXTO ALTERNATIVO](https://images.cdn1.buscalibre.com/fit-in/360x360/db/7b/db7b3a16cc5222dc2d6b18ba09f67c30.jpg)
+
+
+
 
 
 
